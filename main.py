@@ -13,7 +13,7 @@ def main():
   print('Inicializando compilador de dados')
 
   # Gets directives
-  with open('data/directives.json', 'r') as payload:
+  with open('data/directives.js', 'r') as payload:
     directives = json.load(payload)
 
   final_data = []
