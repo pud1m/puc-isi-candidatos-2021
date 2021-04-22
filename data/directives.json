@@ -1,0 +1,88 @@
+{
+  "years": [
+    {
+      "year": 1994,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 1996,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 1998,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2000,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2002,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2004,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2006,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2008,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2010,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -1
+    },
+    {
+      "year": 2012,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -2
+    },
+    {
+      "year": 2014,
+      "ageIndex": 28,
+      "genderIndex": 30,
+      "isElectedIndex": -2
+    },
+    {
+      "year": 2016,
+      "ageIndex": 39,
+      "genderIndex": 42,
+      "isElectedIndex": -10
+    },
+    {
+      "year": 2018,
+      "ageIndex": 39,
+      "genderIndex": 42,
+      "isElectedIndex": -10
+    },
+    {
+      "year": 2020,
+      "ageIndex": 39,
+      "genderIndex": 42,
+      "isElectedIndex": -10
+    }
+  ]
+}
