@@ -13,7 +13,7 @@ def main():
   print('Inicializando compilador de dados')
 
   # Gets directives
-  with open('data/directives.js', 'r') as payload:
+  with open('data/directives.json', 'r') as payload:
     directives = json.load(payload)
 
   final_data = []
@@ -26,7 +26,7 @@ def main():
       payload = get_year_data(directive, payload)
       final_data.append(compute_data(payload))
 
-  with open('results.json', 'w') as result_file:
+  with open('results.js', 'w') as result_file:
     json.dump(final_data, result_file)
 
 
